@@ -1,6 +1,6 @@
-# FIXfuscated-C2
+# FIXfu$cated-C2
 
-Basic PoC bind shell that uses the Financial Information eXchange (FIX) protocol for disguising C2 traffic
+Basic PoC bind shell that uses Financial Information eXchange (FIX) protocol for disguising C2 traffic as stock trades
 
 ## Features
 
